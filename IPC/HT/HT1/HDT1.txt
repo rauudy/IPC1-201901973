@@ -1,0 +1,11 @@
+Asigancion A Ipc
+
+INICIO
+1.Colocar su nombre
+2.Colocar su carnet
+3.Ingresar en una de las dos secciones de Ipc
+4.Si seccion "A" < 15 , mensaje "Puede asignarse"
+5.Si no, mensaje "No te puedes asignar, intenta en otra seccion" y reenviar a menu
+6.Si seccion "B" < 15, mensaje "Puedes asignarte"
+7.Si no, mensaje "No puedes asignarte, abre una nueva seccion"
+FIN
