@@ -41,11 +41,11 @@ public class SolicitarSeguro extends javax.swing.JFrame {
             }
         });
 
-        jButton2.setText("jButton2");
+        jButton2.setText("-Deducible");
 
-        jButton3.setText("jButton3");
+        jButton3.setText("+Deducible");
 
-        jButton4.setText("jButton4");
+        jButton4.setText("Solicitar Seguro");
 
         jButton5.setText("Cancelar");
         jButton5.addActionListener(new java.awt.event.ActionListener() {
@@ -133,7 +133,7 @@ public class SolicitarSeguro extends javax.swing.JFrame {
                     .addGroup(layout.createSequentialGroup()
                         .addGap(177, 177, 177)
                         .addComponent(jButton1)))
-                .addContainerGap(41, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
