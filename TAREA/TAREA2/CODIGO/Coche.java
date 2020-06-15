@@ -14,13 +14,13 @@ public class Coche extends Transporte {
 
     @Override
     public void avanzar() {
-        System.out.println("AVANCE-CABALLO-"+this.getMarca()+"-"+this.getModelo()+
+        System.out.println("AVANCE-AUTO-"+this.getMarca()+"-"+this.getModelo()+
                 "-"+this.getTipoVehiculo());
     }
 
     @Override
     public void frenar() {
-        System.out.println("FRENE-CABALLO-"+this.getMarca()+"-"+this.getModelo()+
+        System.out.println("FRENE-AUTO-"+this.getMarca()+"-"+this.getModelo()+
                 "-"+this.getTipoVehiculo());
     }
 
