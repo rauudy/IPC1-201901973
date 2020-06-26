@@ -1,2 +1,2 @@
 
-![Hi](https://github.com/201901973-RaudyCabrera/IPC1-201901973/blob/master/HT/HT3/CODIGO/CapturaHT3.JPG)
+![Caprira ](https://user-images.githubusercontent.com/66295181/85816916-c7b08d00-b729-11ea-880c-967e5d682417.JPG)
