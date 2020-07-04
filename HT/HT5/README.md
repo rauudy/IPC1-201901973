@@ -65,7 +65,8 @@ de espacio de almacenamiento.
 
 - Rentabilidad: construir nuestros propios servidores y herramientas lleva mucho tiempo y es costoso, 
 ya que necesitamos pedir, pagar, instalar y configurar hardware costoso, mucho antes de que lo necesitemos. 
-Sin embargo, al usar la computación en la nube, solo pagamos la cantidad que usamos y cuando usamos los recursos informáticos.
+Sin embargo, al usar la computación en la nube, solo pagamos la cantidad que usamos y 
+cuando usamos los recursos informáticos.
 
 
 
